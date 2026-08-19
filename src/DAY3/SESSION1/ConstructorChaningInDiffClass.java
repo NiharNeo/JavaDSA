@@ -19,6 +19,5 @@ class c2 extends c1{
 
 public class ConstructorChaningInDiffClass {
     public static void main(String[] args){
-
     }
 }

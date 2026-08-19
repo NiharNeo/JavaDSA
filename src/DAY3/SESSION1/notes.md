@@ -6,3 +6,10 @@
         use .this(); 
     2. For different class:
         use .super();
+
+    
+
+
+            Marker interface
+            lambda Expressions
+            Functional interface using Lambda Expression
