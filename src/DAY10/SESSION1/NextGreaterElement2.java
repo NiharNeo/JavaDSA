@@ -1,4 +1,3 @@
-package DAY10.SESSION1;
 
 import java.util.Arrays;
 import java.util.Stack;
@@ -26,4 +25,4 @@ public int[] nextGreaterElements(int[] nums) {
     public static void main(String[] args){
 
     }
-}
+
