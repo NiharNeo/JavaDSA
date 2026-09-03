@@ -58,6 +58,8 @@ public class Tries {
         }
         return true;
 
+    }
+
     public static void main(String[] args) {
         Tries trie = new Tries();
 
